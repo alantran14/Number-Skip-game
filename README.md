@@ -1,5 +1,5 @@
 # Number-Skip-game
-
+```markdown
 import time
 import random
 
@@ -28,3 +28,4 @@ for rep in range(5):
     print(f"Wrong. I skipped {number_to_skip}")
     
 print(f'Your score is {score} out of 5.')
+```
