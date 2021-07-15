@@ -1,5 +1,5 @@
 # Number-Skip-game
-```markdown
+```{python}
 import time
 import random
 
